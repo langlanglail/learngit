@@ -1,0 +1,1 @@
+cmd_/home/chenglang/vscode/beep/beep_misdev.ko := arm-linux-gnueabihf-ld -r  -EL -T /home/chenglang/vscode/ebf_linux_kernel/scripts/module-common.lds -T /home/chenglang/vscode/ebf_linux_kernel/arch/arm/kernel/module.lds  --build-id  -o /home/chenglang/vscode/beep/beep_misdev.ko /home/chenglang/vscode/beep/beep_misdev.o /home/chenglang/vscode/beep/beep_misdev.mod.o ;  true

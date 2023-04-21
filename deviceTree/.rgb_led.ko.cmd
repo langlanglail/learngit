@@ -1,0 +1,1 @@
+cmd_/home/chenglang/vscode/deviceTree/rgb_led.ko := arm-linux-gnueabihf-ld -r  -EL -T /home/chenglang/vscode/ebf_linux_kernel/scripts/module-common.lds -T /home/chenglang/vscode/ebf_linux_kernel/arch/arm/kernel/module.lds  --build-id  -o /home/chenglang/vscode/deviceTree/rgb_led.ko /home/chenglang/vscode/deviceTree/rgb_led.o /home/chenglang/vscode/deviceTree/rgb_led.mod.o ;  true

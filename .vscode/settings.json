@@ -1,0 +1,8 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "jpeglib.h": "c",
+        "softfloat-specialize": "c"
+    }
+}
